@@ -1,0 +1,6 @@
+{
+  "name": "Jedy - Personal Website",
+  "description": "Website personal satu halaman Jedy, berfokus pada Teknik Informatika dengan bio Jangan Lupa Sholat, karya Informatics Engineering, dan tautan publik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
